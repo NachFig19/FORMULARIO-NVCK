@@ -149,7 +149,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="[NVCK logo.png](https://github.com/NachFig19/FORMULARIO-NVCK/blob/ac9c8c25365985cec3f7884e4bceb67d71d89a2a/NVCK%20logo.png)" alt="Novichok Logo" class="logo">
+    <img src="https://github.com/NachFig19/FORMULARIO-NVCK/blob/ac9c8c25365985cec3f7884e4bceb67d71d89a2a/NVCK%20logo.png" alt="Novichok Logo" class="logo">
     <h1>Agenda tu presentación</h1>
     <form id="bookingForm">
       <input type="text" id="nombre" name="nombre" placeholder="Nombre del solicitante" required>
