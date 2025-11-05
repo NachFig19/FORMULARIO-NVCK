@@ -149,7 +149,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="NCVK logo.png" alt="Novichok Logo" class="logo">
+    <img src="https://raw.githubusercontent.com/NachFig19/Practica/main/NVCK%20logo.png" alt=Novichok Logo">
     <h1>Agenda tu presentación</h1>
     <form id="bookingForm">
       <input type="text" id="nombre" name="nombre" placeholder="Nombre del solicitante" required>
@@ -175,8 +175,8 @@
 
   <div class="modal" id="modalConfirm">
     <div class="modal-content">
-      <h2>Tu fecha quedó agendada 🎸</h2>
-      <p>¡Nos vemos en el escenario!</p>
+      <h2>Tu fecha quedó registrada 🎸</h2>
+      <p>¡Pronto daremos confirmación!</p>
       <button onclick="closeModal()">Cerrar</button>
     </div>
   </div>
